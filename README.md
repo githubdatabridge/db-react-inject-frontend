@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Example command
+
+REACT_APP_BG_COLOR=white REACT_APP_MAIN_TEXT=“HELLO WHITE” REACT_APP_LINK=“www.9gag.com” REACT_APP_LOGO=“https://fraguru.com/mdimg/dizajneri/o.4737.jpg” npx react-inject-env set
+
 ## Available Scripts
 
 In the project directory, you can run:
