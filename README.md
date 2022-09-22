@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+## Getting Started with window environment variable
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link => (https://dev.to/eslynn/how-to-dynamically-change-your-react-environment-variables-without-re-building-55el)
 
 ## Example command
 
 REACT_APP_BG_COLOR=white REACT_APP_MAIN_TEXT=“HELLO WHITE” REACT_APP_LINK=“www.9gag.com” REACT_APP_LOGO=“https://fraguru.com/mdimg/dizajneri/o.4737.jpg” npx react-inject-env set
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
