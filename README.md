@@ -1,6 +1,7 @@
 ## Getting Started with window environment variable
 
-Link => (https://dev.to/eslynn/how-to-dynamically-change-your-react-environment-variables-without-re-building-55el)
+Github Link => (https://github.com/codegowhere/react-inject-env)
+Medium Link => (https://dev.to/eslynn/how-to-dynamically-change-your-react-environment-variables-without-re-building-55el)
 
 ## Example command
 
